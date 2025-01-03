@@ -1,0 +1,10 @@
+{
+    "devtrack.repoName": "code-tracking",
+    "devtrack.commitFrequency": 30,
+    "devtrack.exclude": [
+      "node_modules",
+      "dist",
+      ".git"
+    ]
+  }
+  
